@@ -1,4 +1,5 @@
 "Social Media Analytics"
+
 In this Project we have solved following problems:
 
 1. Calculate the total number of actions performed by each user.
